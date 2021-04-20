@@ -1,0 +1,3 @@
+pip install pyinstaller
+
+pyinstaller SpeechToText.py --onefile --icon "mi.ico"
